@@ -2,19 +2,18 @@
 ## Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Monday, Wednesday and Friday at <b>2:40 PM</b>. |
+|When: | Tuesday and Thursday at <b>1:30 PM</b>. |
 |Where: | Social Sciences 2, Room 71 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours:| Fridays @1pm (in my office)|
-||Tuesdays @2pm (on zoom)|
+|Office hours:| TBD (in my office)|
+||TBD (on zoom)|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
-|TA: | [Amin Karbas](https://akarbas.github.io) |
-|TA sections: | Discussion section (B) - Wed @11:15-12:45 (J Baskin Engineering 105)|
-||Office Hours - Mon @12:00-13:00 (on Zoom)|
+|TAs: | [Sam Wortzman](swortzma@ucsc.edu) and [Nihal Talur](ntalur@ucsc.edu>) |
+|TA sections: | See online schedule|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
-|Class discussion forum signup: | [Discord](https://discord.gg/c8EhdyNg)|
+|Class discussion forum signup: | [Discord](https://discord.gg/KEN8jjMrgT)|
 
 # Description
 
@@ -84,8 +83,8 @@ There will be two examinations: the midterm and the final.
 | Pop quizzes | 5% |
 | Participation | 10% |
 | Midterm | 15% |
-| Project | 40% |
-| Final   | 30%   | 
+| Project | 30% |
+| Final   | 40%   | 
 
 Final projects are required to pass the course.  The fact that participation accounts for 10% of the grade (and pop quizzes for 5%) should give you an idea of the important of class attendance.  
 
