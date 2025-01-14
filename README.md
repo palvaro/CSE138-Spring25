@@ -5,8 +5,8 @@
 |When: | Tuesday and Thursday at <b>1:30 PM</b>. |
 |Where: | Social Sciences 2, Room 71 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours:| TBD (in my office)|
-||TBD (on zoom)|
+|Office (half-)hours:| Tuesdays @9:30am (in my office)|
+||Fridays @10am (on zoom)|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
 |TAs: | [Sam Wortzman](swortzma@ucsc.edu) and [Nihal Talur](ntalur@ucsc.edu>) |
