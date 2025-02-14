@@ -6,7 +6,7 @@
 |Where: | Social Sciences 2, Room 71 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
 |Office (half-)hours:| Tuesdays @9:30am (in my office)|
-||Fridays @10am (on zoom)|
+||Fridays @10am (on zoom: https://ucsc.zoom.us/j/98589467052?pwd=7X0nXA1Y7QodyaCRUX0baJXqF4B27j.1)|
 |Prerequisites: | CSE130 required. |
 |Optional Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
 |TAs: | [Sam Wortzman](swortzma@ucsc.edu) and [Nihal Talur](ntalur@ucsc.edu>) |
