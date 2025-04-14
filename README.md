@@ -14,6 +14,7 @@
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
 |Class discussion forum signup: | [Discord](https://discord.gg/3nw9KNmUBD)|
+|Midterm Date:| Thursday, May 1|
 
 # Description
 
